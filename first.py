@@ -19,7 +19,9 @@ print("Sum of two numbers is {}".format(x+y))
 
 
 #creating pandas DataFrame
-import pandas as pd
+import pandas
+a=pandas.dataframe()
+
 
 ab=pd.dataframe()
 if ab.shape[0]==0:
